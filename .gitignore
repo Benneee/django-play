@@ -8,7 +8,12 @@ ENV/
 play-env
 .vscode
 settings.json
-mysite/db.sqlite3
+
+# Database stuff
+*.sqlite3
+migrations/
+db.sqlite3
+
 # python_ dotenv
 .env
 .env_sample

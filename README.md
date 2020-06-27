@@ -1,0 +1,3 @@
+# Django Play
+
+## Following the tutorial in the official Django Docs...
