@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.mypy_cache/
+# Distribution / packaging
+.Python
+venv/
+ENV/
+play-env
+.vscode
+settings.json
+mysite/db.sqlite3
+# python_ dotenv
+.env
+.env_sample
+.envlocal
+
+# Unit test / coverage reports
+.coverage
+.DS_Store
+
+.idea/
+media/
+#.env
+
+# logs
+logs/
